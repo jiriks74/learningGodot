@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jYjgffMy5JLeHs/+bMTBJQi51J88beN4HftR1bzgcdzkkgF1DgQTMho22W/ICced0eMLOA+HHmF5BMgDCfx4KQ==",
+  "dgSpecHash": "a8WLClaRG5Si644pAfpjhHC+pPCf20CsyGp4IU6M4ZgonggRhjzuKcrnWSfO/ggLwhuzsXvG56Jfy6C3i60Fww==",
   "success": true,
-  "projectFilePath": "/home/jirka/Programs/Projects/godot/dodgeTheCreeps/Dodge The Creeps.csproj",
+  "projectFilePath": "/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/Dodge The Creeps.csproj",
   "expectedPackageFiles": [
     "/home/jirka/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
     "/home/jirka/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.0/microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"

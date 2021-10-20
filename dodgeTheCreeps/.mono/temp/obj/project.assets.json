@@ -420,11 +420,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jirka/Programs/Projects/godot/dodgeTheCreeps/Dodge The Creeps.csproj",
+      "projectUniqueName": "/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/Dodge The Creeps.csproj",
       "projectName": "Dodge The Creeps",
-      "projectPath": "/home/jirka/Programs/Projects/godot/dodgeTheCreeps/Dodge The Creeps.csproj",
+      "projectPath": "/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/Dodge The Creeps.csproj",
       "packagesPath": "/home/jirka/.nuget/packages/",
-      "outputPath": "/home/jirka/Programs/Projects/godot/dodgeTheCreeps/.mono/temp/obj/",
+      "outputPath": "/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/.mono/temp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jirka/.nuget/NuGet/NuGet.Config"
@@ -458,7 +458,7 @@
             "autoReferenced": true
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
       }
     }
   }

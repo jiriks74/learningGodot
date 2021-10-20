@@ -7,3 +7,11 @@
 /home/jirka/Programs/Projects/godot/dodgeTheCreeps/.mono/temp/obj/Debug/Dodge The Creeps.csproj.CoreCompileInputs.cache
 /home/jirka/Programs/Projects/godot/dodgeTheCreeps/.mono/temp/obj/Debug/Dodge The Creeps.dll
 /home/jirka/Programs/Projects/godot/dodgeTheCreeps/.mono/temp/obj/Debug/Dodge The Creeps.pdb
+/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/.mono/temp/bin/Debug/Dodge The Creeps.dll
+/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/.mono/temp/bin/Debug/Dodge The Creeps.pdb
+/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/.mono/temp/obj/Debug/Dodge The Creeps.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/.mono/temp/obj/Debug/Dodge The Creeps.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/.mono/temp/obj/Debug/Dodge The Creeps.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/.mono/temp/obj/Debug/Dodge The Creeps.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/.mono/temp/obj/Debug/Dodge The Creeps.dll
+/home/jirka/Programs/Projects/learningGodot/dodgeTheCreeps/.mono/temp/obj/Debug/Dodge The Creeps.pdb
